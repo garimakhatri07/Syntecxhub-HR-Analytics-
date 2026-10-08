@@ -237,7 +237,7 @@ Syntecxhub_HR_Analytics/
 ├──01_HR Analytics.ipynb
 ├──02_HR Analytics.csv
 ├──03_HR Analytics Cleaned.csv
-├──04_HR Analytics.pbix
+├──04_HR Analytics Dashboard.pbix
 └── README.md
 ```
 
